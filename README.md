@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **JavaFX, Socket Programming, Web Dev (HTML/CSS/JS), and 3D Animation**
 - 💞️ I’m looking to collaborate on **open-source tools, educational platforms, and creative AI projects**
 - 🎥 I create AI cartoon & Buddhist stories on **YouTube & Rumble** under [AI Toon Studio](https://rumble.com/c/c-6829936)
-- 📫 How to reach me: **ireshdilshan@example.com** | [LinkedIn](https://www.linkedin.com/in/ireshdilsh/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love turning imagination into digital stories!
 
