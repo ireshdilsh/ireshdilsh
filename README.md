@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Iresh Dilshan Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Iresh Dilshan</h1>
 <h3 align="center">Software Engineer | Full-stack Developer | AI Animator</h3>
